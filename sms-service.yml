@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.56.1:3306/sms-db?useUnicode=true&characterEncoding=utf-8&useSSL=false
     username: root
-    password: '{cipher}54afbcfe3a6d23f52ff36c17104894ab199621c7dc709f55f209ff295e5bcfbd'
+    password: '{cipher}b82949bf7dc9e93d566e01a9af5bedbacf4ff184a024611a5675cc3bd3863e8e'
   jpa:
     properties:
       hibernate:
